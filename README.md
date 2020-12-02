@@ -13,7 +13,7 @@ https://www.udemy.com/course/react-de-principiante-a-experto-creando-mas-de-10-a
 Tras descargar una copia del proyecto es necesario instalar los paquetes de los que depende.
 Es necesario tener npm instalado en el destino.
 
-## `npm install`
+### `npm install`
 
 ### `npm start`
 
