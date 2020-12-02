@@ -15,6 +15,7 @@ Es necesario tener npm instalado en el destino.
 
 ### `npm install`
 
+Tras la instalación.
 ### `npm start`
 
 Runs the app in the development mode.\
